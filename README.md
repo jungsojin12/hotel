@@ -2,11 +2,11 @@
 
 ## ✨ 웹사이트 바로가기
 
- ![와이스튜디오](https://imgur.com/a/aDO3CXb)
+ ![와이스튜디오](https://imgur.com/pZPqgR8)
 
 
 (
-    https://jungsojin12.github.io/musign/
+    https://github.com/jungsojin12/Ystudio.git
 )
 
 ---
